@@ -1,4 +1,6 @@
 main:
+  - title: "Home"
+    url: /home/
   - title: "About"
     url: /about/
   - title: "Tech"
@@ -13,4 +15,3 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"

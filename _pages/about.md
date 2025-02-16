@@ -1,6 +1,9 @@
 ---
 permalink: /about/
 title: "About"
+layout: single
+header:
+    image: /assets/images/technology-6701504_1280.jpg
 ---
 Hi, I’m Tyler! I work in tech and have a deep passion for all things technology. Whether it’s troubleshooting systems, optimizing workflows, or exploring the latest innovations, I love the ever-evolving nature of the digital world.
 
