@@ -7,3 +7,9 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+  - title: "Tech"
+    url: /tech/
+  - title: "Recipes"
+    url: /recipes/
+  - title: "Travel"
+    url: /travel/
