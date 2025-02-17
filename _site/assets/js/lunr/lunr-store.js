@@ -1,4 +1,10 @@
 var store = [{
+        "title": "Foo Bar Identity",
+        "excerpt":"Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn’t a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening &amp; War section...","categories": [],
+        "tags": [],
+        "url": "/portfolio/test/",
+        "teaser": "/assets/images/foo-bar-identity-th.jpg"
+      },{
         "title": "Post: Modified Date",
         "excerpt":"This post has been updated and should show a modified date if used in a layout. All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a...","categories": ["Blog"],
         "tags": ["Post Formats","readability","standard"],
@@ -40,4 +46,4 @@ var store = [{
         "tags": ["Jekyll","update"],
         "url": "/blog/welcome-to-jekyll/",
         "teaser": null
-      }]
+      },]
