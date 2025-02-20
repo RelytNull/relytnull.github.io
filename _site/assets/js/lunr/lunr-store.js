@@ -1,4 +1,10 @@
 var store = [{
+        "title": "Baz Boom Identity",
+        "excerpt":"This is a test post. I will fill in the photos to complete this test.  ","categories": [],
+        "tags": [],
+        "url": "/portfolio/test_post/",
+        "teaser": "/assets/images/unsplash-gallery-image-1-th.jpg"
+      },{
         "title": "Post: Modified Date",
         "excerpt":"This post has been updated and should show a modified date if used in a layout. All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a...","categories": ["Blog"],
         "tags": ["Post Formats","readability","standard"],

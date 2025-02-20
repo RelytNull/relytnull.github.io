@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/portfolio/test_post/</loc>
+<lastmod>2025-02-19T20:55:42-08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/blog/post-modified/</loc>
 <lastmod>2016-03-09T13:20:02-08:00</lastmod>
 </url>
@@ -41,7 +45,13 @@
 <loc>http://localhost:4000/tech/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/recipes/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/tags/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/travel/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/posts/</loc>
